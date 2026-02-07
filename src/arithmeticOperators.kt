@@ -18,4 +18,12 @@ fun main(){
     var var3 : Double = 21.22222212121
     println("result of var3 / var2 is ${var3/var2}")
 
+    var str : String = "Hello "
+    var str1 = "World"
+
+    println(str + str1 )
+    println(str.length)
+    println(str.lowercase())
+    println(str.uppercase())
+
 }
