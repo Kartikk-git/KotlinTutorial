@@ -26,4 +26,6 @@ fun main(){
     println(str.lowercase())
     println(str.uppercase())
 
+    println(str.uppercase().lowercase())
+
 }
