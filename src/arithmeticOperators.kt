@@ -10,7 +10,9 @@ fun main(){
 
     println("The result is ${a + d}")
 
-    val e = 30
-    println("This value cannot be changed $e")
+    var var1 : Float = 20F
+    var var2 = 8F
+
+    println("var1 / var2 = ${var1/var2}")
 
 }
