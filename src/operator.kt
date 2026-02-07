@@ -14,6 +14,11 @@ fun main()
     println( a == b )
     println ( a > b )
 
+    // Logical Operator = { && , || , !}
+    val x = 10
+    val y = 20
+    println(x < y && !(x > y))
+
 
 
 

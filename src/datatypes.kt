@@ -25,7 +25,7 @@ fun main(){
     println(str.length)
     println(str.lowercase())
     println(str.uppercase())
-
+    println(str.reversed())
     println(str.uppercase().lowercase())
 
 }
