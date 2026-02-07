@@ -15,8 +15,4 @@ fun main(){
 
     println("var1 / var2 = ${var1/var2}")
 
-    var var3 : Double = 21.2332233221122
-    println("var3 / var2 = ${var3/var2}")
-    
-
 }
