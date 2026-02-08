@@ -19,4 +19,20 @@ fun main()
 
     }
 
+
+    print("Enter your age : ")
+    val age = readln()
+    if ( age.toInt() <= 18)
+    {
+        println("You are not an adult.")
+    }
+    else if (age.toInt() <= 50)
+    {
+        println("You are an adult.")
+    }
+    else
+    {
+        println("You are really old.")
+    }
+
 }
